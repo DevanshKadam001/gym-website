@@ -1,0 +1,6 @@
+{
+  "name": "Titan Fitness",
+  "description": "Premium, modern, and high-performance gym experience with cinematic visuals and elite training programs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
